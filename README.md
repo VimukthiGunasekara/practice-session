@@ -11,7 +11,7 @@ Originally from my GitHub:
 
 ## Table of content
 
-- 1st Mini Project
+- 1st Mini Project - HTML and CSS
 - first day
 
 
