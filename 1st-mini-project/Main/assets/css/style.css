@@ -1,0 +1,61 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: aliceblue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#header {
+    background-color: #72A276;
+    padding: 20px;
+    text-align: right;
+
+}
+
+#header a {
+    font-size: 18px;
+    color: white;
+    padding: 20px;
+}
+
+#line {
+    height: 5px;
+    background-color: #e5989b;
+}
+
+#profile {
+    text-align: center;
+    padding: 50px;
+}
+
+#contact-me {
+
+    background-color: #e5989b;
+    padding: 25px;
+    text-align: center;
+}
+
+#form {
+    border-style: solid;
+    border-color: #753639;
+    border-width: 2px;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+.send-button {
+    background-color: #753639;
+    padding: 2px 25px;
+    color: white;
+    border-radius: 5px;
+}
+
+#footer {
+    background-color: #72A276;
+    padding: 20px;
+    text-align: center;
+}
+
+#footer a {
+    color: white;
+}
