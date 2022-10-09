@@ -2,7 +2,7 @@
 
 Standards and best practice session for various front-end technologies.
 
-## Find me around the web 🌎: <img align="left" width="150" height="150" src="./1st-mini-project/Main/assets/images/Icon.gif"></a>
+## Find me around the web 🌎: <img align="left" width="150" height="150" src="./readme-images/icon.gif"></a>
 - Sharing updates on 
 <a href="https://www.linkedin.com/in/vimukthi-gunasekara/">LinkedIn</a> 💼 
 <a href="https://twitter.com/Vimu_Gunasekara">Twitter</a> 🐦
