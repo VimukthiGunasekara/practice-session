@@ -11,11 +11,19 @@ Originally from my GitHub:
 
 ## Table of content
 
-- <a href="https://github.com/VimukthiGunasekara/practice-session/tree/main/1st-mini-project/Main"> 1st Mini Project </a>
-- first day
-- <a href="https://github.com/VimukthiGunasekara/practice-session/tree/main/qr-code-component"> Qr Code Component </a>
-- <a href="https://github.com/VimukthiGunasekara/practice-session/tree/main/product-preview-card-component"> Product Preview Card Component </a>
-
+- 1st Mini Project
+  - <a href="https://vimukthigunasekara.github.io/practice-session/1st-mini-project/Main/"> Deployed URL </a>
+  - <a href="https://github.com/VimukthiGunasekara/practice-session/tree/main/1st-mini-project/Main"> Repo Folder </a>
+    
+- QR Code Component
+  - <a href="https://vimukthigunasekara.github.io/practice-session/qr-code-component"> Deployed URL </a>
+  - <a href="https://github.com/VimukthiGunasekara/practice-session/tree/main/qr-code-component"> Repo Folder </a>
+  
+- Product Preview Card Component
+  - <a href="https://vimukthigunasekara.github.io/practice-session/product-preview-card-component"> Deployed URL </a>
+  - <a href="https://github.com/VimukthiGunasekara/practice-session/tree/main/product-preview-card-component"> Repo Folder </a>
+  
+  
 
 <img align="left" width="285" height="150" src="./readme-images/1st-mini-project.png">
 <img align="left" width="285" height="150" src="./readme-images/qr-code-component-desktop-design.jpg">
