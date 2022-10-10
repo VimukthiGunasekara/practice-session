@@ -11,11 +11,14 @@ Originally from my GitHub:
 
 ## Table of content
 
-- 1st Mini Project - HTML and CSS
+- 1st Mini Project
 - first day
+- qr-code-component
 
 
 <img align="left" width="285" height="150" src="./readme-images/1st-mini-project.png">
+<img align="left" width="285" height="150" src="./readme-images/qr-code-component-desktop-design.jpg">
+<img align="left" width="84" height="150" src="./readme-images/qr-code-component-mobile-design.jpg">
 
 
 
