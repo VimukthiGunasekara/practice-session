@@ -11,10 +11,10 @@ Originally from my GitHub:
 
 ## Table of content
 
-- 1st Mini Project
+- <a href="https://github.com/VimukthiGunasekara/practice-session/tree/main/1st-mini-project/Main"> 1st Mini Project </a>
 - first day
-- Qr Code Component
-- Product Preview Card Component
+- <a href="https://github.com/VimukthiGunasekara/practice-session/tree/main/qr-code-component"> Qr Code Component </a>
+- <a href="https://github.com/VimukthiGunasekara/practice-session/tree/main/product-preview-card-component"> Product Preview Card Component </a>
 
 
 <img align="left" width="285" height="150" src="./readme-images/1st-mini-project.png">
