@@ -13,12 +13,15 @@ Originally from my GitHub:
 
 - 1st Mini Project
 - first day
-- qr-code-component
+- Qr Code Component
+- Product Preview Card Component
 
 
 <img align="left" width="285" height="150" src="./readme-images/1st-mini-project.png">
 <img align="left" width="285" height="150" src="./readme-images/qr-code-component-desktop-design.jpg">
 <img align="left" width="84" height="150" src="./readme-images/qr-code-component-mobile-design.jpg">
+<img align="left" width="285" height="150" src="./readme-images/product-preview-card-component-desktop-design.jpg">
+<img align="left" width="84" height="150" src="./readme-images/product-preview-card-component-mobile-design.jpg">
 
 
 
