@@ -1,0 +1,39 @@
+html {
+    background-color: #cadff5;
+    font-family: "Outfit", sans-serif;
+}
+
+body {
+    min-height: calc(100vh - 100px);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.div {
+    width: 20.125rem;
+    background-color: white;
+    padding: 25px;
+    border-radius: 25px;
+    text-align: center;
+}
+
+img {
+    width: 20.125rem;
+    border-radius: 25px;
+}
+
+.div2 {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+h1 {
+    font-size: 1.375rem;
+    font-weight: 700;
+}
+
+p {
+    font-size: 15px;
+    font-weight: 400;
+}
