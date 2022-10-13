@@ -1,0 +1,129 @@
+:root {
+    /*Primary & Neutral Color
+    */
+
+    --Very-Dark-Blue: hsl(233, 47%, 7%);
+    --Dark-Desaturated-Blue: hsl(244, 38%, 16%);
+    --Soft-Violet: hsl(277, 64%, 61%);
+    --White: hsl(0, 0%, 100%);
+    --Slightly-Transparent-White: hsla(0, 0%, 100%, 0.75);
+    --Slightly-Transparent-White: hsla(0, 0%, 100%, 0.6);
+}
+
+html {
+    background-color: var(--Very-Dark-Blue);
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: var(--White);
+    font-family: 'Lexend Deca', sans-serif;
+}
+
+.main {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.info {
+    width: 350px;
+    background-color: var(--Dark-Desaturated-Blue);
+    text-align: left;
+    padding: 50px 75px;
+    border-radius: 5px 0px 0px 5px;
+}
+
+.info span {
+    color: var(--Soft-Violet);
+}
+
+.info p {
+    font-size: small;
+    font-family: 'Inter', sans-serif;
+    color: var(--Slightly-Transparent-White);
+}
+
+.main-card {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    margin-top: 35px;
+}
+
+.main-card div {
+    width: 33%;
+}
+
+.main-card div p {
+    letter-spacing: 1px;
+}
+
+.image {
+    width: 500px;
+    height: 412px;
+    border-radius: 0px 5px 5px 0px;
+    background: linear-gradient(rgb(200, 152, 230,0.5), rgb(200, 152, 230,0.5)), url(../images/image-header-desktop.jpg);
+}
+/*
+.image img {
+    width: 500px;ddd
+    height: 412px;
+    border-radius: 0px 5px 5px 0px;
+}
+
+.image img::after{
+    background-color: #550081;
+    width: 500px;
+    height: 412px;
+    border-radius: 0px 5px 5px 0px;
+    opacity: 0.5;
+    content: '';
+    position: absolute;
+}
+
+.overlay{
+    width: 500px;
+    height: 412px;
+    border-radius: 0px 5px 5px 0px;
+    mix-blend-mode: difference;
+    opacity: 0.1;
+    position: absolute;
+    background-color: #550081;
+}
+*/
+
+@media screen and (max-width: 1100px) {
+    .main {
+        flex-direction: column;
+    }
+
+    .image {
+
+        width: 400px;
+        height: 293px;
+        border-radius: 5px 5px 0px 0px;
+    }
+
+    .image img {
+        content: url(../images/image-header-mobile.jpg);
+
+        width: 400px;
+        height: 293px;
+        border-radius: 5px 5px 0px 0px;
+    }
+
+    .info {
+        order: 1;
+        width: 250px;
+        border-radius: 0px 0px 5px 5px;
+        text-align: center;
+        padding: 10px 75px;
+    }
+
+    .main-card {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin-top: 5px;
+    }
+}
