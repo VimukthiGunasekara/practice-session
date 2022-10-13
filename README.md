@@ -23,6 +23,10 @@ Originally from my GitHub:
   - <a href="https://vimukthigunasekara.github.io/practice-session/product-preview-card-component"> Deployed URL </a>
   - <a href="https://github.com/VimukthiGunasekara/practice-session/tree/main/product-preview-card-component"> Repo Folder </a>
   
+- Stats Preview Card Component
+  - <a href="https://vimukthigunasekara.github.io/practice-session/stats-preview-card-component/"> Deployed URL </a>
+  - <a href="https://github.com/VimukthiGunasekara/practice-session/tree/main/stats-preview-card-component"> Repo Folder </a>
+  
   
 
 <img align="left" width="285" height="150" src="./readme-images/1st-mini-project.png">
@@ -30,6 +34,8 @@ Originally from my GitHub:
 <img align="left" width="84" height="150" src="./readme-images/qr-code-component-mobile-design.jpg">
 <img align="left" width="84" height="150" src="./readme-images/product-preview-card-component-mobile-design.jpg">
 <img align="left" width="285" height="150" src="./readme-images/product-preview-card-component-desktop-design.jpg">
+<img align="left" width="84" height="150" src="./readme-images/stats-preview-card-component-mobile-design.jpg">
+<img align="left" width="285" height="150" src="./readme-images/stats-preview-card-component-desktop-design.jpg">
 
 
 
